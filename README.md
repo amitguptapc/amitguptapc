@@ -11,9 +11,10 @@
 - Machine & Deep Learning
 
 ## Some of my achievements are :
-- 4⭐ on Codechef
+- 4★ on Codechef
 - 271 rank in Codevita S8
 - Codechef Foundation Level Certified
+- 95 global rank in August Long Challenge 2020
 
 ## Find me around :
 
