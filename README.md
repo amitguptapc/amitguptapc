@@ -14,7 +14,7 @@
 - 4★ on Codechef
 - 271 rank in Codevita S8
 - Codechef Foundation Level Certified
-- 95 global rank in August Long Challenge 2020
+- 95 global rank in August Long Challenge 2019
 
 ## Find me around :
 
