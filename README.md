@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello, I'm Amit 👋
 
-<!--
-**amitguptapc/amitguptapc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I have recently completed my Bachelors in Computer Science & Engineering. I'm more into Machine Learning and Artificial Intelligence. I'm also passionate about Problem Solving and Optimizing, so I actively take part in Competitive Programming Challenges on various platforms like Codechef, Codeforces, etc.
 
-Here are some ideas to get you started:
+### My Skillset comprises of :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java 8
+- Python 3
+- Data Structures
+- Algorithms
+- Machine & Deep Learning
+
+## Some of my achievements are :
+- 4⭐ on Codechef
+- 271 rank in Codevita S8
+- Codechef Foundation Level Certified
+
+## Find me around :
+
+### @amitguptapc for all below 
+- linkedin
+- codechef
+- codeforces      
+- skype
+- hackerrank
