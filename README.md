@@ -1,6 +1,6 @@
 # Hello, I'm Amit 👋
 
-🔭 I am currently working in Infosys as Digital Specialist Engineer as a backend Java developer. I'm also passionate about Problem Solving and Optimizing, so I actively take part in Competitive Programming Challenges on various platforms like Codechef, Codeforces, etc.
+🔭 I am currently working in Infosys as a backend Java developer. I'm also passionate about Problem Solving and Optimizing, so I actively take part in Competitive Programming Challenges on various platforms like Codechef, Codeforces, etc.
 
 ## My Skillset comprises of :
 
