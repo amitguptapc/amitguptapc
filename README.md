@@ -1,14 +1,14 @@
 # Hello, I'm Amit 👋
 
-🔭 I have recently completed my Bachelors in Computer Science & Engineering. I'm more into Machine Learning and Artificial Intelligence. I'm also passionate about Problem Solving and Optimizing, so I actively take part in Competitive Programming Challenges on various platforms like Codechef, Codeforces, etc.
+🔭 I am currently working in Infosys as Digital Specialist Engineer as a backend Java developer. I'm also passionate about Problem Solving and Optimizing, so I actively take part in Competitive Programming Challenges on various platforms like Codechef, Codeforces, etc.
 
 ## My Skillset comprises of :
 
 - Java 8
-- Python 3
+- Spring Boot
+- Microservices
 - Data Structures
 - Algorithms
-- Machine & Deep Learning
 
 ## Some of my achievements are :
 - 4★ on Codechef
